@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IpLVolthiVQ=",
+  "success": true,
+  "projectFilePath": "/home/webstin/Desktop/university-studing/summer-practice/lab5cp2025-Alexandr-Zaburyannyi/Lab_5_1/Lab_5_1.csproj",
+  "expectedPackageFiles": [
+    "/home/webstin/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.15/microsoft.netcore.app.host.linux-x64.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
